@@ -14,6 +14,7 @@ body {
   background-image: url(images/portal.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+  text-decoration-color:
 }
 
 h3 {
@@ -21,9 +22,13 @@ h3 {
   padding: 20px 0px 10px 0px;
 font-size: 30pt;
 }
-p {rdifrinirfniof4nionfonfon}
+p {
+  color: white;
+  padding: 20px 0px 10px 0px;
+font-size: 25pt;
+}
 
 a {
-color: #69CBBB;
+color: #ffffff;
 text-decoration: none;
 }
