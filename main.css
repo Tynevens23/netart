@@ -1,9 +1,8 @@
-@import url('https://fonts.googleapis.com/css?family=Cinzel|Rock+Salt');
-
+@import url('https://fonts.googleapis.com/css?family=Finger+Paint');
 body {
   margin: 30px auto;
   max-width: 1000px;
-  font-family: 'Rock Salt', cursive;
+  font-family: 'Finger Paint', cursive;
   line-height: 1.5;
   padding: 30px 20px;
 text-align: center;
